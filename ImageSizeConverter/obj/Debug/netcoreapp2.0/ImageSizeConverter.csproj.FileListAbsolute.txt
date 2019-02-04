@@ -1,0 +1,11 @@
+D:\Programing\ASP_NET_MVC\ImageSizeConverter\ImageSizeConverter\bin\Debug\netcoreapp2.0\ImageSizeConverter.deps.json
+D:\Programing\ASP_NET_MVC\ImageSizeConverter\ImageSizeConverter\bin\Debug\netcoreapp2.0\ImageSizeConverter.runtimeconfig.json
+D:\Programing\ASP_NET_MVC\ImageSizeConverter\ImageSizeConverter\bin\Debug\netcoreapp2.0\ImageSizeConverter.runtimeconfig.dev.json
+D:\Programing\ASP_NET_MVC\ImageSizeConverter\ImageSizeConverter\bin\Debug\netcoreapp2.0\ImageSizeConverter.dll
+D:\Programing\ASP_NET_MVC\ImageSizeConverter\ImageSizeConverter\bin\Debug\netcoreapp2.0\ImageSizeConverter.pdb
+D:\Programing\ASP_NET_MVC\ImageSizeConverter\ImageSizeConverter\obj\Debug\netcoreapp2.0\ImageSizeConverter.csprojAssemblyReference.cache
+D:\Programing\ASP_NET_MVC\ImageSizeConverter\ImageSizeConverter\obj\Debug\netcoreapp2.0\ImageSizeConverter.csproj.CoreCompileInputs.cache
+D:\Programing\ASP_NET_MVC\ImageSizeConverter\ImageSizeConverter\obj\Debug\netcoreapp2.0\ImageSizeConverter.AssemblyInfoInputs.cache
+D:\Programing\ASP_NET_MVC\ImageSizeConverter\ImageSizeConverter\obj\Debug\netcoreapp2.0\ImageSizeConverter.AssemblyInfo.cs
+D:\Programing\ASP_NET_MVC\ImageSizeConverter\ImageSizeConverter\obj\Debug\netcoreapp2.0\ImageSizeConverter.dll
+D:\Programing\ASP_NET_MVC\ImageSizeConverter\ImageSizeConverter\obj\Debug\netcoreapp2.0\ImageSizeConverter.pdb

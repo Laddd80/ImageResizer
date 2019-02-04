@@ -1,0 +1,36 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+
+<div class="col-md-12">
+
+    <p>With this application you can select a folder on your desktop, where you have saved large size JPEG images, and can convert them to another folder based either on the new height or width size.</p>
+    <p>You will be only able to select either height or width. The other value will be automatically calculated. Files will be renaimed based on size.</p>
+
+    <form method="post">
+        <p>Convert according to: </p>
+        <b><span id="cb-text" onclick="CheckBox()">HEIGHT</span></b>
+        <input type="checkbox" asp-for="HeightOrWidth" id="size-cb"/>
+
+        <br />
+        <br />
+        <p>New image should be converted to <input asp-for="Size" type="number" min="10" max="4320" value="10" id="slider-value" oninput="NumberEntered()" />px</p>
+        <input id="slider" type="range" min="10" max="4320" value="10" oninput="SliderDrag()">
+
+        <br />
+        <p>Location of all images to be converted:</p>
+        <input asp-for="RootFolder" id="root-folder" type="text" class="folderinput" />
+        <br />
+        <p>Location of folder where converted images should be saved:</p>
+        <input asp-for="TargetFolder" id="target-folder" type="text" class="folderinput" />
+
+        <br />
+        <button type="submit">Convert All Images</button>
+
+        <p>@ViewData["message"]</p>
+
+    </form>
+</div>
